@@ -5,7 +5,9 @@
  <div>
  
  
- <a href="https://github.com/skapkun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=skapkun&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="skapkun github stats" /></a>  <a href="https://github.com/skapkun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skapkun&layout=compact&theme=dracula&hide_border=true" /></a> 
+ <a href="https://github.com/skapkun/github-readme-stats">
+ <img height="140em" src="https://github-readme-stats.vercel.app/api?username=skapkun&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="skapkun github stats" /></a>  <a href="https://github.com/skapkun/github-readme-stats">
+ <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skapkun&layout=compact&theme=dracula&hide_border=true" /></a> 
  
  
 

@@ -24,7 +24,7 @@
     <img align="center" alt="Carla-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   
             
-          ![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,js,ts,tailwindcss,react,nextjs,nodejs,expressjs,mongodb,git,figma)
+           
  
 </div>
  

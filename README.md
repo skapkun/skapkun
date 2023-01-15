@@ -35,9 +35,8 @@
   <a href = "mailto:cgrcavalcante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carla-cavalcante-4aaa561a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/9e4a2f12be6c0fd345f9c4f7c19bccdd.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"> 
-  ![Snake animation](https://github.com/skapkun/skapkun/blob/output/github-contribution-grid-snake.svg)
-   ---    
+ ![Snake animation](https://github.com/skapkun/skapkun/blob/output/github-contribution-grid-snake.svg)
+    
  
 </div>
-  
  

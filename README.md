@@ -17,9 +17,7 @@
 
  
 </div>
- <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java, spring, hibernate, sql, c, javascript, html, css" /> 
- </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
   
             
            

@@ -40,7 +40,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skapkun&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skapkun&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skapkun&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skapkun&theme=nord_dark)) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skapkun&theme=nord&card_width=420&card_height=170)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skapkun&theme=nord_dark)) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skapkun&theme=nord&card_width=488&card_height=189)](https://git.io/streak-stats) |
 | :-: | :-: |
   
 </div>

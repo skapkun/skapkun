@@ -40,7 +40,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skapkun&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skapkun&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skapkun&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skapkun&theme=nord_dark)) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skapkun&theme=nord&card_width=390&card_height=170)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skapkun&theme=nord_dark)) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skapkun&theme=nord&card_width=420&card_height=170)](https://git.io/streak-stats) |
 | :-: | :-: |
   
 </div>
@@ -62,7 +62,6 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:cgrcavalcante@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/skapkun)
-  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/rafaela_dev)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5569984931226)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/skapkun/)
   
@@ -71,14 +70,14 @@
 
 <div align="center">
 
-<p align="center">
-      <samp>
-    ♡ Flutter mobile dev ⊹ Curiosa por natureza ⊹ Amante de café e código ⊹ Aprendendo todos os dias ♡
-
-      </samp>
+<div>
+  <p align="center">
+    <samp>
+      ♡ Flutter mobile dev ⊹ Curiosa por natureza ⊹ Amante de café e código ⊹ Aprendendo todos os dias ♡
+    </samp>
   </p>
-
 </div>
+
 
 ##
 

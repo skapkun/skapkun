@@ -46,10 +46,13 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" /> 
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" /> 
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" /> 
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" /> 
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" /> 
+     
   
 </div>
 
